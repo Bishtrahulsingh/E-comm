@@ -1,0 +1,16 @@
+
+
+#navsearch{
+    width: 30vw;
+    height: 20px;
+    padding:2px;
+    background-color: rgba(0, 0, 0, 0.01);
+    text-align: center;
+    outline: none;
+    border: solid 1px black;
+    box-shadow: 2px 2px 10px black;
+    color:black;
+    margin-right: 10px;
+    margin-left: 5px;
+
+}

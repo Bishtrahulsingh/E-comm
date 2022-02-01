@@ -1,0 +1,25 @@
+
+
+# dependencies
+/node_modules
+/material/node_modules
+/material/.pnp
+/material/.pnp.js
+
+# testing
+/material/coverage
+
+# production
+/material/build
+
+# misc
+.env
+/material/.DS_Store
+/material/.env.local
+/material/.env.development.local
+/material/.env.test.local
+/material/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
